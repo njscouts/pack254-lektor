@@ -1,0 +1,8 @@
+[project]
+name = pack254
+
+[servers.production]
+name=Production
+target=ghpages://njscouts/njscouts.github.io?cname=www.njpack76.org
+enabled = yes
+default = yes

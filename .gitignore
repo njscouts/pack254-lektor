@@ -1,0 +1,6 @@
+basetemplate/
+temp/
+build/
+push.sh
+*.swp
+
