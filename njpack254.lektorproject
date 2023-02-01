@@ -3,6 +3,6 @@ name = pack254
 
 [servers.production]
 name=Production
-target=ghpages://njscouts/njscouts.github.io?cname=www.njpack76.org
+target=ghpages://njscouts/pack254-site?cname=www.njpack254.org
 enabled = yes
 default = yes
